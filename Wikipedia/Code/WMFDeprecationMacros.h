@@ -2,6 +2,10 @@
 //  WMFDeprecationMacros.h
 //  Wikipedia
 //
+//  This header file contains macros related to technical debts and iOS targets versions.
+//  In order to avoid filling the Issue Navigator with technical and target related warnings these
+//  deprecation macros can be enable per target basis.
+//
 //  Created by Brian Gerstle on 11/11/15.
 //  Copyright © 2015 Wikimedia Foundation. All rights reserved.
 //
