@@ -220,6 +220,7 @@
 "share-article-name-on-wikipedia-with-selected-text" = "\"$1\" on @Wikipedia: \"$2\"";
 "share-as-image" = "Share as image";
 "share-as-text" = "Share as text";
+"share-cancel" = "Cancel";
 
 "timestamp-just-now" = "just now";
 "timestamp-minutes" = "%d minutes ago";
@@ -351,6 +352,7 @@
 "home-hide-suggestion-prompt" = "Hide this suggestion";
 "home-hide-suggestion-cancel" = "Cancel";
 "home-accessibility-label" = "Wikipedia, Explore";
+"home-button-accessibility-label" = "Home Button";
 
 "potd-empty-error-description" = "Failed to retrieve picture of the day for $1";
 "potd-description-prefix" = "Picture of the day for $1";
@@ -406,3 +408,11 @@
 
 "compass-direction" = "at $1 o'clock";
 
+"explore-featured-article-heading" = "Featured article";
+"explore-continue-reading-heading" = "Continue reading";
+"explore-nearby-heading" = "Nearby places";
+"explore-continue-related-heading" = "Because you read";
+"explore-main-page-heading" = "Today on Wikipedia";
+"explore-random-article-heading" = "Random article";
+"explore-random-article-sub-heading" = "English Wikipedia";
+"explore-potd-heading" = "Picture of the day";
