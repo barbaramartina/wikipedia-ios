@@ -19,7 +19,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @property (nonatomic, weak, nullable) id<WMFWebViewControllerDelegate> delegate;
 
-@property (nonatomic, strong, nullable, readonly) UIWebView* webView;
+@property (nonatomic, strong, nullable, readonly) UIWebView* webView WMF_TECH_DEBT_DEPRECATED_MSG("Consider replacing by WKWebView");
 
 @property (nonatomic) BOOL isPeeking;
 
